@@ -61,10 +61,10 @@ Develop a structured Excel-based solution to analyze **potential expansion marke
 ```plaintext
 zomato-expansion-strategy/
 │
-├── Analysis.xlsx # Main Excel file with data cleaning, formulas, pivot tables, and dashboard
+├── Zomato_Data_Analysis.xlsx # Main Excel file with data cleaning, formulas, pivot tables, and dashboard
 ├── Dashboard.png # Snapshot of the dashboard visualization
-├── Documentation.docx # Detailed documentation of the project
-├── Presentation.pptx # Presentation slides summarizing the project
+├── Zomato_Data_Analysis.docx # Detailed documentation of the project
+├── Zomato_Data_Analysis.pptx # Presentation slides summarizing the project
 │
 ├── README.md # Project overview and instructions
 └── .gitignore # Files to ignore in Git
