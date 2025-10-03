@@ -65,7 +65,7 @@ zomato-expansion-strategy/
 ├── Dashboard.png # Snapshot of the dashboard visualization
 ├── Zomato_Data_Analysis.docx # Detailed documentation of the project with insight and recommendation of those analysis
 ├── Zomato_Data_Analysis.pptx # Presentation slides summarizing the project
-|--- Tasks # The Objective and Subjective Questions used for data analysis
+├── Tasks # The Objective and Subjective Questions used for data analysis
 │
 ├── README.md # Project overview and instructions
 └── .gitignore # Files to ignore in Git
