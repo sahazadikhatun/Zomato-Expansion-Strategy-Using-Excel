@@ -41,6 +41,12 @@ This repository is an excellent resource for professionals and students showcasi
 10. Data Analysis Approach
 
 ---
+## Dashboard
+Here’s a snapshot of the interactive dashboard created in Excel:  
+![Zomato Dashboard](Dashboard.png)
+---
+
+## 🏆 Evaluation 
 
 ## 🚀 Project Requirements
 
