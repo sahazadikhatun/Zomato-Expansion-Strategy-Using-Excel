@@ -63,8 +63,9 @@ zomato-expansion-strategy/
 │
 ├── Zomato_Data_Analysis.xlsx # Main Excel file with data cleaning, formulas, pivot tables, and dashboard
 ├── Dashboard.png # Snapshot of the dashboard visualization
-├── Zomato_Data_Analysis.docx # Detailed documentation of the project
+├── Zomato_Data_Analysis.docx # Detailed documentation of the project with insight and recommendation of those analysis
 ├── Zomato_Data_Analysis.pptx # Presentation slides summarizing the project
+|--- Tasks # The Objective and Subjective Questions used for data analysis
 │
 ├── README.md # Project overview and instructions
 └── .gitignore # Files to ignore in Git
